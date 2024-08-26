@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.col-sm-10{
+    background-color: white;
+}
+#Footer{
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+}
